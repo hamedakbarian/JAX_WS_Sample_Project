@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="JAX-WS" type="JAX-WS">
+    <CLASSES>
+      <root url="jar://D:/lib/lib/FastInfoset.jar!/" />
+      <root url="jar://D:/lib/lib/gmbal-api-only.jar!/" />
+      <root url="jar://D:/lib/lib/ha-api.jar!/" />
+      <root url="jar://D:/lib/lib/javax.annotation-api.jar!/" />
+      <root url="jar://D:/lib/lib/javax.xml.soap-api.jar!/" />
+      <root url="jar://D:/lib/lib/jaxb-api.jar!/" />
+      <root url="jar://D:/lib/lib/jaxb-core.jar!/" />
+      <root url="jar://D:/lib/lib/jaxb-impl.jar!/" />
+      <root url="jar://D:/lib/lib/jaxb-jxc.jar!/" />
+      <root url="jar://D:/lib/lib/jaxb-xjc.jar!/" />
+      <root url="jar://D:/lib/lib/jaxws-api.jar!/" />
+      <root url="jar://D:/lib/lib/jaxws-rt.jar!/" />
+      <root url="jar://D:/lib/lib/jaxws-tools.jar!/" />
+      <root url="jar://D:/lib/lib/jsr181-api.jar!/" />
+      <root url="jar://D:/lib/lib/management-api.jar!/" />
+      <root url="jar://D:/lib/lib/mimepull.jar!/" />
+      <root url="jar://D:/lib/lib/policy.jar!/" />
+      <root url="jar://D:/lib/lib/resolver.jar!/" />
+      <root url="jar://D:/lib/lib/saaj-impl.jar!/" />
+      <root url="jar://D:/lib/lib/stax-ex.jar!/" />
+      <root url="jar://D:/lib/lib/stax2-api.jar!/" />
+      <root url="jar://D:/lib/lib/streambuffer.jar!/" />
+      <root url="jar://D:/lib/lib/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
